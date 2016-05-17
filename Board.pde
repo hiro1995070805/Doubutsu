@@ -25,6 +25,4 @@ class Board {
     mArea[1].draw();
     iArea.draw();
   }
-
-
 }
